@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, DL, DSA and almost every other thing involving logic and code 
 - 🌱 I’m currently learning Machine Learning and advanced Python
 - 💞️ I’m looking to collaborate on Machine Learning Projects
-- 📫 How to reach me ...
+- 📫 You can reach me at soubhik285@gmail.com
 
 <!---
 Soubhik752blaze/Soubhik752blaze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
